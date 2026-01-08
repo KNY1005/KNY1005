@@ -3,8 +3,7 @@
 
 ###
 
-<!-- 헤드 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&text=NAYEONG's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+<!-- 헤드 -->![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&text=NAYEONG's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)?
 
 
 
@@ -23,12 +22,6 @@
 
 ###
 
-<!-- 스택 그래프 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KNY1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=kr&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KNY1005&locale=kr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 
@@ -44,10 +37,10 @@
   <!-- 리액트 -->
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=000000" />&nbsp
   <!-- 쓰리.js -->
-  <img src="https://img.shields.io/badge/threedotjs-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" />&nbsp
+  <!-- <img src="https://img.shields.io/badge/threedotjs-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" />&nbsp -->
   <br>
   <!-- 뷰.js -->
-  <img src="https://img.shields.io/badge/vuedotjs-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=000000" />&nbsp
+  <!-- <img src="https://img.shields.io/badge/vuedotjs-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=000000" />&nbsp -->
   <!-- 자바스크립트 -->
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" />&nbsp
 </div>
@@ -70,11 +63,8 @@
 ###
 
 <h3 align="center">Mobile Development</h3>
-<!-- 백엔드 -->
 <div align="center">
-  <!-- 스프링 -->
   <img src="https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />&nbsp
-  <!-- 자바 -->
 
 </div>
 
