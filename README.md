@@ -1,14 +1,3 @@
-<!-- 백그라운드 이펙트-->
-
-
-###
-
-<!-- 헤드 -->![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&text=NAYEONG's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)?
-
-
-
-###
-
 <!-- 펫 키우기 -->
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KNY1005&utm_content=farm">
