@@ -1,0 +1,38 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">About me section</title>
+  <desc id="desc">A short about me card for KNY1005.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#EEF2FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="92" y1="54" x2="198" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#9333EA"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="218" rx="28" fill="url(#card)" stroke="#CBD5E1" stroke-width="2"/>
+  <circle cx="145" cy="110" r="58" fill="url(#accent)"/>
+  <path d="M145 82C155.493 82 164 90.507 164 101C164 111.493 155.493 120 145 120C134.507 120 126 111.493 126 101C126 90.507 134.507 82 145 82Z" fill="#FFFFFF"/>
+  <path d="M108 151C114.605 132.908 128.866 124 145 124C161.134 124 175.395 132.908 182 151" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <text x="240" y="78" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">
+    About Me
+  </text>
+  <text x="240" y="117" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">
+    Hi, I am KNY1005.
+  </text>
+  <text x="240" y="149" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="16">
+    I enjoy learning, building, and improving software through steady practice.
+  </text>
+  <text x="240" y="177" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="16">
+    This profile collects my projects, experiments, and development notes.
+  </text>
+  <g>
+    <rect x="704" y="54" width="108" height="32" rx="16" fill="#DBEAFE"/>
+    <text x="758" y="75" text-anchor="middle" fill="#1D4ED8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Learning</text>
+    <rect x="686" y="98" width="126" height="32" rx="16" fill="#EDE9FE"/>
+    <text x="749" y="119" text-anchor="middle" fill="#6D28D9" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Building</text>
+    <rect x="716" y="142" width="96" height="32" rx="16" fill="#DCFCE7"/>
+    <text x="764" y="163" text-anchor="middle" fill="#15803D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Growing</text>
+  </g>
+</svg>
