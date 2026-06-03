@@ -5,11 +5,11 @@
 <br/>
 
 <div align="center">
-  <img src="./about-me.svg" alt="About KNY1005" />
+  <img src="./about_me_section.svg" alt="About KNY1005" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./tech-stack.svg" alt="KNY1005 tech stack" />
+  <img src="./tech-stack_section.svg" alt="KNY1005 tech stack" />
 </div>
