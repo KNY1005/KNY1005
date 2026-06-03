@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="KNY1005 header" />
+  <img src="./header_section.svg" alt="KNY1005 header" />
 </div>
 
 <div align="center">
