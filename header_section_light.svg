@@ -97,7 +97,7 @@
   <circle class="star star-3" cx="50" cy="142" r="1.1"/>
   <circle class="star star-5" cx="460" cy="150" r="0.7"/>
 
-  <text class="welcome-text" x="340" y="48" text-anchor="middle">&  Welcome to  &</text>
+  <text class="welcome-text" x="340" y="48" text-anchor="middle">Welcome to</text>
   <text class="name-text" x="340" y="100" text-anchor="middle">Nayoung Kim</text>
   <rect class="cursor" x="502" y="72" width="3" height="30" rx="1"/>
 
@@ -107,5 +107,5 @@
   <circle class="dot2" cx="340" cy="128" r="3"/>
   <circle class="dot3" cx="364" cy="128" r="3"/>
 
-  <text class="sub-text" x="340" y="150" text-anchor="middle">Frontend Developer · React · TypeScript</text>
+  <text class="sub-text" x="340" y="150" text-anchor="middle">Frontend Developer - React - TypeScript</text>
 </svg>
